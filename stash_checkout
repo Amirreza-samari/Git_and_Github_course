@@ -1,0 +1,16 @@
+git stash:
+ma az dastoor git stash baraye zakhire taghiraat movaghat estefade mikonim.yani taghirati ke felan namikhahim aan haa ra commit konim.
+ bararye mesal zamani ke dar branchi farei hastim va nemikhahim taghiraat ra zakhire konim mitavanim aan ha ra ba in dastoor zakhire karde va sepas be branch asli beravim.
+git stash save "massage" -----> zakhire ba payam tozihi
+git stash list -------> hameye stash ha ra list mikonad
+git stash clear ------> hameye stash hara hazf mikonad
+
+git checkout:
+in dastoor karbord haye motafaveti darad.
+yeki az aan haa sakht branch jadid va switch kardan be aan ra anjam midahad.
+git checkoutc -b newbranch
+karbord digar didan yeki az commit haye ghabli ast.
+git checkout 53h67(commits hash)
+ ya ba dastoor 
+git checkout <branchname>
+mitavanim be branchi ke ghablan vojood dashte beravim.
